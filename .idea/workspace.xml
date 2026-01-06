@@ -4,7 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="302249cf-d36d-43b8-b7e6-31ee3b74d87e" name="Changes" comment="Учимся работать с ожиданиями" />
+    <list default="true" id="302249cf-d36d-43b8-b7e6-31ee3b74d87e" name="Changes" comment="Учимся работать с ожиданиями">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Stepik_Selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_1/Lesson 1.6.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_1/Lesson 1.6.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_1/Lesson 1.6.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_1/Lesson 1.6.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_1/Lesson 1.6.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_1/Lesson 1.6.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_1/Lesson 1.6.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_1/Lesson_1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_1/Lesson_1_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2/Lesson_2.1.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2/Lesson_2_1_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2/Lesson_2_2_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2/Lesson_2_2_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2/Lesson_2_2_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2/Lesson_2_2_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2/Lesson_2_3_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2/Lesson_2_3_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2/Lesson_2_4_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2/Lesson_2_4_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2/Lesson_2_4_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dasads.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa_practice_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa_practice_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa_practice_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa_practice_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,58 +78,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lesson 1.6.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson 1.6.10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson 1.6.11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson 1.6.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson 1.6.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson 1.6.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson 1.6.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson 1.6.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson_1_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson_1_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson_2.1.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson_2_1_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson_2_2_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson_2_2_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson_2_2_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson_2_2_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson_2_2_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson_2_3_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson_2_3_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson_2_4_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson_2_4_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson_2_4_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dasads.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demoqa_practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demoqa_practice_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demoqa_practice_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demoqa_practice_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demoqa_practice_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson 1.6.10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson 1.6.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson 1.6.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson 1.6.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson 2.1.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson 2.1.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson 2.2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson 2.2.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson 2.2.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson 2.2.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson 2.3.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson 2.3.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.review.executor&quot;: &quot;Run&quot;,
-    &quot;Python.step10.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/79215/Desktop/step10.py&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lesson 1.6.1.executor": "Run",
+    "Python.Lesson 1.6.10.executor": "Run",
+    "Python.Lesson 1.6.11.executor": "Run",
+    "Python.Lesson 1.6.3.executor": "Run",
+    "Python.Lesson 1.6.4.executor": "Run",
+    "Python.Lesson 1.6.5.executor": "Run",
+    "Python.Lesson 1.6.6.executor": "Run",
+    "Python.Lesson 1.6.7.executor": "Run",
+    "Python.Lesson1.executor": "Run",
+    "Python.Lesson_1_2.executor": "Run",
+    "Python.Lesson_1_6.executor": "Run",
+    "Python.Lesson_2.1.5.executor": "Run",
+    "Python.Lesson_2_1_6.executor": "Run",
+    "Python.Lesson_2_2_2.executor": "Run",
+    "Python.Lesson_2_2_4.executor": "Run",
+    "Python.Lesson_2_2_5.executor": "Run",
+    "Python.Lesson_2_2_6.executor": "Run",
+    "Python.Lesson_2_2_8.executor": "Run",
+    "Python.Lesson_2_3_4.executor": "Run",
+    "Python.Lesson_2_3_6.executor": "Run",
+    "Python.Lesson_2_4_3.executor": "Run",
+    "Python.Lesson_2_4_7.executor": "Run",
+    "Python.Lesson_2_4_8.executor": "Run",
+    "Python.dasads.executor": "Run",
+    "Python.demoqa_practice.executor": "Run",
+    "Python.demoqa_practice_2.executor": "Run",
+    "Python.demoqa_practice_3.executor": "Run",
+    "Python.demoqa_practice_4.executor": "Run",
+    "Python.demoqa_practice_5.executor": "Run",
+    "Python.lesson 1.6.10.executor": "Run",
+    "Python.lesson 1.6.4.executor": "Run",
+    "Python.lesson 1.6.6.executor": "Run",
+    "Python.lesson 1.6.7.executor": "Run",
+    "Python.lesson 2.1.4.executor": "Run",
+    "Python.lesson 2.1.7.executor": "Run",
+    "Python.lesson 2.2.2.executor": "Run",
+    "Python.lesson 2.2.5.executor": "Run",
+    "Python.lesson 2.2.6.executor": "Run",
+    "Python.lesson 2.2.8.executor": "Run",
+    "Python.lesson 2.3.4.executor": "Run",
+    "Python.lesson 2.3.6.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.review.executor": "Run",
+    "Python.step10.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Reverting in main",
+    "last_opened_file_path": "C:/Users/79215/Desktop/step10.py",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\79215\PycharmProjects\Stepik_Selenium" />
@@ -163,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767722334937</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Учимся работать с ожиданиями">
+      <option name="closed" value="true" />
+      <created>1767723418684</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1767723418684</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
