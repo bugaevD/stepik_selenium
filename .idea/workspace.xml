@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="302249cf-d36d-43b8-b7e6-31ee3b74d87e" name="Changes" comment="Учимся работать с ожиданиями" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bugaevD&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/bugaevD/stepik_selenium.git&quot;,
+    &quot;accountId&quot;: &quot;2972815a-35cc-4015-aa0c-e2a57c2eacbb&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/.gitignore" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="33Q1M6xZ2SQuq8HtCQShcZMN8gD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lesson 1.6.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 1.6.10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 1.6.11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 1.6.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 1.6.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 1.6.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 1.6.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 1.6.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson_1_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson_1_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson_2.1.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson_2_1_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson_2_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson_2_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson_2_2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson_2_2_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson_2_2_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson_2_3_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson_2_3_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson_2_4_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson_2_4_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson_2_4_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dasads.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demoqa_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demoqa_practice_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demoqa_practice_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demoqa_practice_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demoqa_practice_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson 1.6.10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson 1.6.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson 1.6.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson 1.6.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson 2.1.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson 2.1.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson 2.2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson 2.2.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson 2.2.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson 2.2.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson 2.3.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson 2.3.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.review.executor&quot;: &quot;Run&quot;,
+    &quot;Python.step10.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/79215/Desktop/step10.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\79215\PycharmProjects\Stepik_Selenium" />
+      <recent name="C:\Users\79215\PycharmProjects\Stepik_Selenium\chapter_1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="demoqa_practice_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Stepik_Selenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoqa_practice_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demoqa_practice_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="302249cf-d36d-43b8-b7e6-31ee3b74d87e" name="Changes" comment="" />
+      <created>1759234430068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759234430068</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Учимся работать с ожиданиями">
+      <option name="closed" value="true" />
+      <created>1767722279145</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767722279145</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Учимся работать с ожиданиями">
+      <option name="closed" value="true" />
+      <created>1767722334937</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767722334937</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="19e10434-f955-4561-86fd-aee2b3ef7f9e" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="19e10434-f955-4561-86fd-aee2b3ef7f9e">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Учимся работать с ожиданиями" />
+    <option name="LAST_COMMIT_MESSAGE" value="Учимся работать с ожиданиями" />
+  </component>
+</project>
